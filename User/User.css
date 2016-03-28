@@ -1,0 +1,32 @@
+
+#css_table {
+    display:table;
+    text-align: center; 
+    width: 100%;
+    padding: 0px; 
+    border-spacing: 20px;
+}
+
+.css_tr {
+    display: table-row;
+    text-align: center; 
+}
+
+.css_tr {
+    
+}
+
+.css_td {
+    display: table-cell;
+    text-align: left; 
+    width: 30%;
+    vertical-align: top;
+}
+
+.css_tdh {
+    display: table-cell;
+    text-align: left; 
+    width: 10%;
+    vertical-align: top;
+    font-weight: bold;
+}
